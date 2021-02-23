@@ -1,0 +1,20 @@
+{
+  "name": "automation-script",
+  "version": "1.0.0",
+  "description": "自学Computer Science系列课程，给自己加个学位🌈🤣",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m",
+    "postgit": "git pull && git push && git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnscorpions/cs-degree-for-free.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnscorpions/cs-degree-for-free/issues"
+  },
+  "homepage": "https://github.com/cnscorpions/cs-degree-for-free#readme"
+}
